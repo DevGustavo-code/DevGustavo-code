@@ -1,75 +1,53 @@
-# 👨‍💻 Gustavo | Desenvolvedor em formação
+# ⚡ Gustavo
 
-🎯 Estudante de Análise e Desenvolvimento de Sistemas
-💡 Apaixonado por programação, jogos e tecnologia
-🚀 Em constante evolução
-
----
-
-## 🧠 Sobre mim
-
-Sou um desenvolvedor em formação com foco em criar soluções práticas e aprender constantemente.
-Tenho experiência com desenvolvimento de sistemas, jogos e aplicações web.
-
-📚 Atualmente estudando:
-
-* Estruturas de Dados em C;
-* Laravel;
-* Programação Orientada a Objetos, Java e PHP; 
-* Banco de Dados;
+💻 Desenvolvedor FullStack
+🐧 Linux user | Foco em performance e organização de código
 
 ---
 
-## 🛠️ Tecnologias
+## 🧠 Sobre
 
-💻 Linguagens:
-
-* C
-* Python
-* JavaScript
-
-🌐 Web:
-
-* HTML
-* CSS
-* Flask
-
-🎮 Game Dev:
-
-* Godot
-* MakeCode Arcade
-
-🗄️ Banco de Dados:
-
-* MySQL
+Atuo no desenvolvimento de aplicações com foco em **lógica, estrutura e eficiência**.
+Tenho interesse em backend, sistemas e banco de dados, sempre buscando código limpo e funcional.
 
 ---
 
-## 📂 Projetos em destaque
+## 🚀 Tecnologias
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,python,js,html,css,flask,mysql,linux,git" />
+</p>
+
+---
+
+## 📂 Projetos
 
 🔹 **Sistema Bancário em C**
-Sistema com funcionalidades de cliente e administrador
+Sistema bancário em linguagem C com áreas de administrador e cliente, simulando operações como saque, depósito, atualização cadastral e empréstimos.
 
-🔹 **Projeto Binigue**
-Plataforma gamificada para ensino de programação
+🔹 **Cronos Painel(PHP + MYSQL)**
+Sistema web de produtividade e controle de estudos, desenvolvido em PHP e MySQL, com foco em organização, clareza de uso e acompanhamento de rotina.
 
-🔹 **Jogo "As Aventuras do Zumbi-The"**
-Jogo 2D com narrativa criativa e mecânicas simples
+🔹 **Cabel Bordados(Laravel + MySQL)**
+Sistema desenvolvido em parceria para uma empresa de bordados, com foco no gerenciamento de recursos, organização de processos e apoio à operação diária.
+
+🔹 **Portfólio Web Responsivo**
+Portfólio dinâmico com formulário de contato, painel administrativo protegido e gerenciamento de mensagens em ambiente web.
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DevGustavo-code&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGustavo-code&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 📈 Estatísticas
+## 📫 Contato
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=tokyonight)
+📧 Email: dev.gustavo07@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/devgustavo-code/
 
 ---
 
-## 🌎 Onde me encontrar
-
-📧 Email: [seuemail@email.com](mailto:seuemail@email.com)
-💼 LinkedIn: https://linkedin.com/in/seu-link
-🐙 GitHub: https://github.com/SEU_USUARIO
-
-
-
-*"Disciplina supera motivação."*
