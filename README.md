@@ -15,7 +15,7 @@ Tenho interesse em backend, sistemas e banco de dados, sempre buscando código l
 ## 🚀 Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,js,html,css,flask,mysql,linux,git" />
+  <img src="https://skillicons.dev/icons?i=c,python,js,html,css,java,mysql,linux,git" />
 </p>
 
 ---
@@ -33,6 +33,7 @@ Sistema desenvolvido em parceria para uma empresa de bordados, com foco no geren
 
 🔹 **Portfólio Web Responsivo**
 Portfólio dinâmico com formulário de contato, painel administrativo protegido e gerenciamento de mensagens em ambiente web.
+
 ---
 
 ## 📊 Estatísticas
