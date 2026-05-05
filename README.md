@@ -1,14 +1,17 @@
-# ⚡ Gustavo
+# 💻 Desenvolvedor FullStack
 
-💻 Desenvolvedor FullStack
-🐧 Linux user | Foco em performance e organização de código
+
+🐧 Linux user | Java | Node.js | PHP | Laravel | Buscando Estágio em TI
 
 ---
 
 ## 🧠 Sobre
 
-Atuo no desenvolvimento de aplicações com foco em **lógica, estrutura e eficiência**.
-Tenho interesse em backend, sistemas e banco de dados, sempre buscando código limpo e funcional.
+Desenvolvedor Full Stack em formação com foco em **backend, sistemas e banco de dados**.  
+Possuo experiência prática na construção de aplicações reais, desde sistemas em C até soluções web com PHP, Java e integração com MySQL.
+
+Busco criar aplicações **funcionais, organizadas e escaláveis**, aplicando boas práticas de desenvolvimento e estruturação de código.  
+Atualmente, procuro uma oportunidade de estágio em TI para evoluir tecnicamente e contribuir com projetos reais.
 
 ---
 
