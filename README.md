@@ -38,16 +38,6 @@ Sistema desenvolvido em parceria para uma empresa de bordados, com foco no geren
 Portfólio dinâmico com formulário de contato, painel administrativo protegido e gerenciamento de mensagens em ambiente web.
 
 ---
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DevGustavo-code&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGustavo-code&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 📫 Contato
 
 📧 Email: dev.gustavo07@gmail.com
